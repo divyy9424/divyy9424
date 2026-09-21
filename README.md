@@ -2,12 +2,12 @@
 
 Hi, I'm **Divyansh Chouksey** 👋
 
-Full Stack Developer with experience in **ASP.NET Core, C#, Node.js, Python, JavaScript, React (Basic), and MySQL**.
+Full Stack Developer with experience in **ASP.NET Core, C#, Node.js, Python (Basic), JavaScript, React, and MySQL**.
 
 I also work with **AI Automation tools like n8n**, building smart workflows and automating real-world tasks.
 
 🚀 **Skilled in:** C#, ASP.NET Core, Node.js, Python, JavaScript, SQL, AI Automation
-⚛️ **Frontend:** React (Basic), HTML, CSS
+⚛️ **Frontend:** React, HTML, CSS
 🤖 **AI & Automation:** n8n, AI Automation, Workflow Automation
 💡 **Interested in:** Web Development, APIs, Backend Development, Automation & AI
 
